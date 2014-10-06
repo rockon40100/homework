@@ -1,0 +1,184 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+body{
+	background-color: black;
+	color:#ffffff;
+
+}
+
+h1{
+	margin:10px 10px 10px 10px;
+
+}
+
+*smile
+
+.test{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:200px;
+	width:450px;
+	height: 300px;
+
+
+}
+.top{
+	*width:250px;
+	background-color: #fed116;
+}
+.content{
+	padding:20px 50px 20px 50px;
+	background-color: #666666;
+}
+.content_right{
+	width:50px;
+	height:200px;
+	float:right;
+	background-color: #ffffff;
+	border-radius:20px;
+}
+
+.content_left{
+	width:50px;
+	height:200px;
+	float:left;
+	background-color: #ffffff;
+	border-radius:20px;
+}
+.clear{
+	clear:both
+
+}
+.footer{
+	width:150px;
+	height:50px;
+	border-radius:20px;
+	margin:100px auto 0 auto;
+	background-color: #ffffff;
+}
+.footer_top{
+	width:150px;
+	height:50px;
+	border-radius:20px;
+	margin:100px auto 0 auto;
+	background-color: #ffffff;
+}
+
+.footer_mid{
+	width:143px;
+	height:50px;
+	border-radius:20px;
+	margin:-45px auto 0 auto;
+	background-color: #ffffff;
+}
+.footer_footer{
+	width:137px;
+	height:50px;
+	border-radius:20px;
+	margin:-43px auto 0 auto;
+	background-color: #ffffff;
+}
+
+*bear
+
+.frame{
+	background-color: #666666;
+	width:350px;
+	height:400px;
+	margin:100px auto 0 auto;
+	padding-top:1px;
+	border-radius:200px;
+}
+
+.eye_left{
+	background-color: #ffffff;
+	height:50px;
+	width:50px;
+	float:left;
+	margin-left:50px;
+	margin-top:70px;
+	border-radius:50px;
+}
+.eye_right{
+	background-color: #ffffff;
+	height:50px;
+	width:50px;
+	float:right;
+	margin-right:50px;
+	margin-top:70px;
+	border-radius:50px;
+}
+.head{
+	background-color: #ffffff;
+	height:125px;
+	width:125px;
+	border-radius:200px;
+	margin:100px auto 0 auto;
+}
+.mouth{
+	background-color: #ffffff;
+	height:80px;
+	width:100px;
+	border-radius:30px;
+	margin:20px auto 0 auto;
+}
+
+.logo{
+	background: url('images/logo.png');
+	height:69px;
+	width:308px;
+}
+.picture{
+	background: url('Alliance.jpg');
+	height:540px;
+	width:960px;
+	background-size:960px 540px;
+	background-repeat: no-repeat;
+	margin:20px auto 0 auto;
+}
