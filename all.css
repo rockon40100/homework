@@ -94,12 +94,14 @@ table {
 
 .title{
 	display:block;
-	width:472px;
+	width:500px;
 	margin-top:15px;
 	margin-bottom:15px;
 	font-size:28px;
 	font-family:verdana,helvetica,arial,sans-serif;
 	font-weight: bold;
+	text-decoration: underline;
+	color:#00bfff;
 }
 
 .title>a{
